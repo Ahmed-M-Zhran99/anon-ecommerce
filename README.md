@@ -1,4 +1,4 @@
-# Project Title
+# anon-ecommerce
 
 ## Desktop View
 <p align="center">
